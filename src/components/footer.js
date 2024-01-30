@@ -5,8 +5,8 @@ const Footer = () => {
     <>
       <div className="footer-padding"></div>
       <div className="footer">
-        <p className="author"> Desmond Ofori Atta</p>
-        <p className="copyright text-muted">&copy; 2021</p>
+        <p className="author"> Asamoah Randy Yeboah</p>
+        <p className="copyright text-muted">&copy; 2022</p>
       </div>
     </>
   );
